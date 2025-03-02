@@ -1,0 +1,3 @@
+//MO011-012.TXT ANA00011 TO ANA00012
+Admin		TAR	281	new record size: 281
+Admin	DatedenaissanceA	CNW	String$Date (yyyymmdd)	new type for DatedenaissanceA item: String
