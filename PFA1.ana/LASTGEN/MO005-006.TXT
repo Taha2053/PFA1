@@ -1,0 +1,5 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+Etudiants		IDE+*		file with identifier
+Etudiants	NUM_CIN	NNR	NUM_CINE	CAUTION: key NUM_CINE renamed NUM_CIN
+Etudiants	NUM_CIN	CNW	Automatic Identifier (4 bytes)$4-byte integer	new type for NUM_CIN item: Automatic Identifier (4 bytes)
+Admin		NFI		new file
