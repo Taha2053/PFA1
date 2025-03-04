@@ -1,0 +1,8 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+Etudiants		TAR	550	new record size: 550
+Etudiants	NUM_CIN_ET	NNR	NUM_CINE	CAUTION: key NUM_CINE renamed NUM_CIN_ET
+Etudiants	EmailEtud	RUB+		EmailEtud is a new key
+Etudiants	Photo	RUB+		Photo is a new item
+Etudiants	Login	RUB+		Login is a new item
+Etudiants	Password	RUB+		Password is a new item
+Profs		NFI		new file

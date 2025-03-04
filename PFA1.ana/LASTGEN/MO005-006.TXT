@@ -1,0 +1,5 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+Profs		NFI		new file
+Profs1		FIC-	Profs1	Profs1 file deleted
+Profs	Title	RRN		
+Profs	Photo	RRN		

@@ -1,0 +1,12 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+Profs1		NFI		new file
+Profs		FIC-	Profs	Profs file deleted
+Profs1		FRN		
+Profs1	Num_cin_pr	RRN		
+Profs1	Title	RRN		
+Profs1	Prenom	RRN		
+Profs1	Nom	RRN		
+Profs1	Phone	RRN		
+Profs1	EmailProf	RRN		
+Profs1	Photo	RRN		
+Profs1	Password	RRN		
