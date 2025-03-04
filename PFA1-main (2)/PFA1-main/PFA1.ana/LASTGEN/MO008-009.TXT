@@ -1,0 +1,3 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+examens	classeID	CLE-*		classeID item is no longer key
+coursmiseajour	classeID	CLE-*		classeID item is no longer key

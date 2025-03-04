@@ -1,0 +1,5 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+examens		TAR	231	new record size: 231
+examens	date	RUB+		date is a new item
+coursmiseajour		TAR	231	new record size: 231
+coursmiseajour	date	RUB+		date is a new item
