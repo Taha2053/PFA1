@@ -1,0 +1,11 @@
+//MO017-018.TXT ANA00017 TO ANA00018
+Notes	DevoirID	RUB+		DevoirID is a new key
+Notes	score	RUB+		score is a new item
+Notes	DS	RUB-		item DS deleted
+Notes	Examen	RUB-		item Examen deleted
+Notes	TP	RUB-		item TP deleted
+Classes		NFI		new file
+TypeExamen		NFI		new file
+Devoir		NFI		new file
+CoeffMatiereExamen		NFI		new file
+Constraint_Etudiants_Matiere		DEL	Etudiants (NUM_CIN_E) and Matiere (NUM_CIN_E)	Link deleted between Etudiants (NUM_CIN_E) and Matiere (NUM_CIN_E) files

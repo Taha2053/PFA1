@@ -1,0 +1,2 @@
+//MO016-017.TXT ANA00016 TO ANA00017
+Constraint_Etudiants_Matiere		NWL	Etudiants (NUM_CIN_E) and Matiere (NUM_CIN_E)	New link between Etudiants (NUM_CIN_E) and Matiere (NUM_CIN_E) files

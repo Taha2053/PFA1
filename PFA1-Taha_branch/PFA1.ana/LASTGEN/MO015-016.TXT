@@ -1,0 +1,6 @@
+//MO015-016.TXT ANA00015 TO ANA00016
+Etudiants		FCNX+	HFSQL Classic connection	
+Matiere		FCNX+	HFSQL Classic connection	
+Notes		FCNX+	HFSQL Classic connection	
+HFSQL Classic connection		CNX+		
+Notes		FRN		

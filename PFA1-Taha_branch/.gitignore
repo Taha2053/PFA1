@@ -1,0 +1,6 @@
+*.cpl
+*.env
+*.log
+*.bak
+__Depot*
+__Synchronisation*

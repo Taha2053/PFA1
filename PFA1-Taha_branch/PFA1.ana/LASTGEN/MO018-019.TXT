@@ -1,0 +1,4 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+Matiere		TAR	80	new record size: 80
+Matiere	ClassesID	RUB+		ClassesID is a new key
+Matiere	tp	RUB-		item tp deleted

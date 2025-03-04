@@ -1,0 +1,6 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+Etudiants		IDE-*		file without identifier
+Etudiants	NUM_CINE	CNW	4-byte integer$Automatic Identifier (4 bytes)	new type for NUM_CINE item: 4-byte integer
+Admin		TAR	239	new record size: 239
+Admin		IDE-*		file without identifier
+Admin	NUM_CINA	CNW	4-byte integer$Automatic Identifier (8 bytes)	new type for NUM_CINA item: 4-byte integer

@@ -1,0 +1,3 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+Etudiants		IDE+*		file with identifier
+Etudiants	NUM_CINE	CNW	Automatic Identifier (4 bytes)$4-byte integer	new type for NUM_CINE item: Automatic Identifier (4 bytes)
