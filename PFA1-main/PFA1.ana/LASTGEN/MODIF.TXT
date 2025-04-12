@@ -1,0 +1,3 @@
+//MO016-017.TXT ANA00016 TO ANA00017
+coursmiseajour	classeID	RDP+		
+examens	classeID	CLEN*		classeID item is now key

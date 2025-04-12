@@ -1,0 +1,4 @@
+//MO009-010.TXT ANA00009 TO ANA00010
+Etudiants		IDE-*		file without identifier
+Etudiants	NUM_CIN_E	NNR	NUM_CINE	CAUTION: key NUM_CINE renamed NUM_CIN_E
+Etudiants	NUM_CIN_E	CNW	4-byte integer$Automatic Identifier (4 bytes)	new type for NUM_CIN_E item: 4-byte integer
