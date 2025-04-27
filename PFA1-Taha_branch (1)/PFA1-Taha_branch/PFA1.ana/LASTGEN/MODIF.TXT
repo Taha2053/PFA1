@@ -1,0 +1,3 @@
+//MO025-026.TXT ANA00025 TO ANA00026
+Etudiants		TAR	406	new record size: 406
+Etudiants	Genre	RUB+		Genre is a new item

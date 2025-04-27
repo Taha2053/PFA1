@@ -1,0 +1,26 @@
+//MO017-018.TXT ANA00017 TO ANA00018
+Etudiants		TAR	355	new record size: 355
+Etudiants	ClassesID	RUB+		ClassesID is a new key
+Profs		TAR	184	new record size: 184
+Profs	NUM_CIN_A	RUB+		NUM_CIN_A is a new key
+events		TAR	133	new record size: 133
+events		IDE+*		file with identifier
+events	eventsID	CLEU*		eventsID item is now key
+events	eventsID	CNW	Automatic Identifier (4 bytes)$String	new type for eventsID item: Automatic Identifier (4 bytes)
+events	NUM_CIN_A	RUB+		NUM_CIN_A is a new key
+examens		TAR	240	new record size: 240
+examens	SubjectID	RUB+		SubjectID is a new key
+subject		TAR	152	new record size: 152
+subject	ClasseID	RUB+		ClasseID is a new key
+subject_Profs		NFI		new file
+classes		NFI		new file
+Etudiants_events		NFI		new file
+Constraint_subject_examens		NWL	subject (subjectID) and examens (SubjectID)	New link between subject (subjectID) and examens (SubjectID) files
+Constraint_subject_coursmiseajour		NWL	coursmiseajour (classeID) and subject (ClasseID)	New link between coursmiseajour (classeID) and subject (ClasseID) files
+Constraint_Profs_Admin		NWL	Admin (NUM_CIN_A) and Profs (NUM_CIN_A)	New link between Admin (NUM_CIN_A) and Profs (NUM_CIN_A) files
+Constraint_subject_Profs		NWL	subject (subjectID) and subject_Profs (SubjectID)	New link between subject (subjectID) and subject_Profs (SubjectID) files
+Constraint_Profs_subject		NWL	Profs (CINp) and subject_Profs (CINp)	New link between Profs (CINp) and subject_Profs (CINp) files
+Constraint_Etudiants_classes		NWL	classes (classesID) and Etudiants (ClassesID)	New link between classes (classesID) and Etudiants (ClassesID) files
+Constraint_events_Etudiants		NWL	events (eventsID) and Etudiants_events (EventsID)	New link between events (eventsID) and Etudiants_events (EventsID) files
+Constraint_Etudiants_events		NWL	Etudiants (NUM_CIN_E) and Etudiants_events (NUM_CIN_E)	New link between Etudiants (NUM_CIN_E) and Etudiants_events (NUM_CIN_E) files
+Constraint_Admin_events		NWL	Admin (NUM_CIN_A) and events (NUM_CIN_A)	New link between Admin (NUM_CIN_A) and events (NUM_CIN_A) files

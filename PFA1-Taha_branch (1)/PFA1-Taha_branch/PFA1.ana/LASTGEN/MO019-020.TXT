@@ -1,0 +1,5 @@
+//MO019-020.TXT ANA00019 TO ANA00020
+Constraint_subject_Profs		NWL	subject (subjectID) and subject_Profs (SubjectID)	New link between subject (subjectID) and subject_Profs (SubjectID) files
+Constraint_Profs_subject		NWL	Profs (CINp) and subject_Profs (CINp)	New link between Profs (CINp) and subject_Profs (CINp) files
+Constraint_subject_Profs		DEL	subject (subjectID) and subject_Profs (SubjectID)	Link deleted between subject (subjectID) and subject_Profs (SubjectID) files
+Constraint_Profs_subject		DEL	Profs (CINp) and subject_Profs (CINp)	Link deleted between Profs (CINp) and subject_Profs (CINp) files
