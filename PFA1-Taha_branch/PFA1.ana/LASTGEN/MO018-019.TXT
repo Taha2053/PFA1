@@ -1,0 +1,3 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+Constraint_Etudiants_classes		NWL	classes (classesID) and Etudiants (ClassesID)	New link between classes (classesID) and Etudiants (ClassesID) files
+Constraint_Etudiants_classes		DEL	classes (classesID) and Etudiants (ClassesID)	Link deleted between classes (classesID) and Etudiants (ClassesID) files

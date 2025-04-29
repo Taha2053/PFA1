@@ -1,0 +1,4 @@
+//MO050-051.TXT ANA00050 TO ANA00051
+coursmiseajour		TAR	130	new record size: 130
+coursmiseajour	Etat	NNR	RouA	CAUTION: item RouA renamed Etat
+coursmiseajour	Etat	CNW	1-byte unsigned integer$String	new type for Etat item: 1-byte unsigned integer

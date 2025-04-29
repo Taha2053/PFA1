@@ -1,0 +1,3 @@
+//MO037-038.TXT ANA00037 TO ANA00038
+subject		TAR	91	new record size: 91
+subject	coeffM	CNW	Decimal$8-byte real	new type for coeffM item: Decimal

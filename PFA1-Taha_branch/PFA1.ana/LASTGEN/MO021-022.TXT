@@ -1,0 +1,2 @@
+//MO021-022.TXT ANA00021 TO ANA00022
+Constraint_subject_Profs		MCL	0,n->1,n	

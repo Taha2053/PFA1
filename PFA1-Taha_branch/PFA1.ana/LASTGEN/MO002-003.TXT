@@ -1,0 +1,10 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+Etudiants		TAR	292	new record size: 292
+Etudiants	DatedenaissanceE	NNR	AgeE	CAUTION: item AgeE renamed DatedenaissanceE
+Etudiants	DatedenaissanceE	CNW	Date (yyyymmdd)$4-byte integer	new type for DatedenaissanceE item: Date (yyyymmdd)
+Etudiants	NationaliteE	NNR	NationaliseE	CAUTION: item NationaliseE renamed NationaliteE
+Etudiants	FilliereE	RUB+		FilliereE is a new item
+Etudiants	NiveauE	RUB+		NiveauE is a new item
+Etudiants	EmailE	RUB+		EmailE is a new item
+Etudiants	NumeroTelephoneE	RUB+		NumeroTelephoneE is a new item
+Etudiants	AdresseE	RUB+		AdresseE is a new item

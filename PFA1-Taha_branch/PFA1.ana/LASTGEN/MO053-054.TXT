@@ -1,0 +1,3 @@
+//MO053-054.TXT ANA00053 TO ANA00054
+examens	IDExam	NNR	Code	CAUTION: key Code renamed IDExam
+examens	IDExam	CLEU*		IDExam item is now key

@@ -1,0 +1,14 @@
+//MO027-028.TXT ANA00027 TO ANA00028
+Profs	CINp	CNW	4-byte unsigned integer$4-byte integer	new type for CINp item: 4-byte unsigned integer
+coursmiseajour		TAR	182	new record size: 182
+coursmiseajour	classeID	CNW	2-byte unsigned integer$String	new type for classeID item: 2-byte unsigned integer
+examens		TAR	185	new record size: 185
+examens	classeID	CNW	2-byte unsigned integer$String	new type for classeID item: 2-byte unsigned integer
+examens	SubjectID	CNW	2-byte unsigned integer$8-byte integer	new type for SubjectID item: 2-byte unsigned integer
+subject		TAR	97	new record size: 97
+subject		IDE-*		file without identifier
+subject	subjectID	CNW	2-byte unsigned integer$Automatic Identifier (8 bytes)	new type for subjectID item: 2-byte unsigned integer
+subject	ClasseID	CNW	2-byte unsigned integer$String	new type for ClasseID item: 2-byte unsigned integer
+subject_Profs		TAR	15	new record size: 15
+subject_Profs	CINp	CNW	4-byte unsigned integer$4-byte integer	new type for CINp item: 4-byte unsigned integer
+subject_Profs	SubjectID	CNW	2-byte unsigned integer$8-byte integer	new type for SubjectID item: 2-byte unsigned integer

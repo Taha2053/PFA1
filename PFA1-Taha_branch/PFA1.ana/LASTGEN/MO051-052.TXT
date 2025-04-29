@@ -1,0 +1,4 @@
+//MO051-052.TXT ANA00051 TO ANA00052
+coursmiseajour	Code	NNR	classeID	CAUTION: key classeID renamed Code
+examens	Code	NNR	classeID	CAUTION: item classeID renamed Code
+subject	Code	NNR	ClasseID	CAUTION: key ClasseID renamed Code

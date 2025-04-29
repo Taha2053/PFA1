@@ -1,0 +1,3 @@
+//MO031-032.TXT ANA00031 TO ANA00032
+Etudiants	NUM_CIN_E	CNW	4-byte unsigned integer$4-byte integer	new type for NUM_CIN_E item: 4-byte unsigned integer
+Etudiants_events	NUM_CIN_E	CNW	4-byte unsigned integer$4-byte integer	new type for NUM_CIN_E item: 4-byte unsigned integer

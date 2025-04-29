@@ -1,0 +1,11 @@
+//MO028-029.TXT ANA00028 TO ANA00029
+Admin		TAR	199	new record size: 199
+Admin	NUM_CIN_A	CNW	4-byte unsigned integer$4-byte integer	new type for NUM_CIN_A item: 4-byte unsigned integer
+Admin	NumeroTelephoneA	CNW	4-byte unsigned integer$4-byte integer	new type for NumeroTelephoneA item: 4-byte unsigned integer
+Admin	MotDePasseA	TAI-	40	MotDePasseA item has been resized: 11 (instead of 51)
+Profs	NUM_CIN_A	CNW	4-byte unsigned integer$4-byte integer	new type for NUM_CIN_A item: 4-byte unsigned integer
+events	NUM_CIN_A	CNW	4-byte unsigned integer$4-byte integer	new type for NUM_CIN_A item: 4-byte unsigned integer
+user		TAR	40	new record size: 40
+user	Numcin	CNW	4-byte unsigned integer$4-byte integer	new type for Numcin item: 4-byte unsigned integer
+user	MotDePasseA	TAI-	40	MotDePasseA item has been resized: 11 (instead of 51)
+user	Role	TAI-	35	Role item has been resized: 16 (instead of 51)

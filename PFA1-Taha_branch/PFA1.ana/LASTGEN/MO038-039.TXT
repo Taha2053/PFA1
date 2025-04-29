@@ -1,0 +1,10 @@
+//MO038-039.TXT ANA00038 TO ANA00039
+subject		TAR	81	new record size: 81
+subject	coeffM	TAI+	1	coeffM item has been resized: 2 (instead of 1)
+subject	DS	CNW	Decimal$4-byte integer	new type for DS item: Decimal
+subject	EXAMEN	CNW	Decimal$4-byte integer	new type for EXAMEN item: Decimal
+subject	TP	CNW	Decimal$4-byte integer	new type for TP item: Decimal
+subject	coeffDS	TAI+	1	coeffDS item has been resized: 2 (instead of 1)
+subject	coeffEXAM	CNW	Decimal$4-byte integer	new type for coeffEXAM item: Decimal
+subject	coeffTP	CNW	Decimal$4-byte integer	new type for coeffTP item: Decimal
+subject	MoyenneM	CNW	Decimal$4-byte integer	new type for MoyenneM item: Decimal

@@ -1,0 +1,3 @@
+//MO054-055.TXT ANA00054 TO ANA00055
+coursmiseajour	ClasseCode	NNR	Code	CAUTION: key Code renamed ClasseCode
+subject	ClasseCode	NNR	Code	CAUTION: key Code renamed ClasseCode
