@@ -1,0 +1,4 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+Professeurs	MatiereID	RUB+		MatiereID is a new key
+Professeurs	AdminsID	RUB-		key AdminsID deleted
+Constraint_Professeurs_Admins		DEL	Admins (AdminsID) and Professeurs (AdminsID)	Link deleted between Admins (AdminsID) and Professeurs (AdminsID) files

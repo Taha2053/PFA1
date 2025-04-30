@@ -1,0 +1,20 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Etudiant		NFI		new file
+Professeurs		NFI		new file
+Admins		NFI		new file
+Departement		NFI		new file
+Matiere		NFI		new file
+Examen		NFI		new file
+Note		NFI		new file
+Professeurs_Matiere		NFI		new file
+Constraint_Note_Examen		NWL	Examen (ExamenID) and Note (ExamenID)	New link between Examen (ExamenID) and Note (ExamenID) files
+Avoir		NWL	Etudiant (EtudiantID) and Note (EtudiantID)	New link between Etudiant (EtudiantID) and Note (EtudiantID) files
+Constraint_Examen_Matiere		NWL	Matiere (MatiereID) and Examen (MatiereID)	New link between Matiere (MatiereID) and Examen (MatiereID) files
+Constraint_Professeurs_Matiere		NWL	Professeurs (ProfesseursID) and Professeurs_Matiere (ProfesseursID)	New link between Professeurs (ProfesseursID) and Professeurs_Matiere (ProfesseursID) files
+Constraint_Matiere_Professeurs		NWL	Matiere (MatiereID) and Professeurs_Matiere (MatiereID)	New link between Matiere (MatiereID) and Professeurs_Matiere (MatiereID) files
+Constraint_Etudiant_Departement		NWL	Departement (DepartementID) and Etudiant (DepartementID)	New link between Departement (DepartementID) and Etudiant (DepartementID) files
+Constraint_Departement_Professeurs		NWL	Departement (DepartementID) and Professeurs (DepartementID)	New link between Departement (DepartementID) and Professeurs (DepartementID) files
+Constraint_Professeurs_Admins		NWL	Admins (AdminsID) and Professeurs (AdminsID)	New link between Admins (AdminsID) and Professeurs (AdminsID) files
+Etudiant	niveauE	RRN		
+Etudiant	classeE	RRN		
+Departement	nom_departement	RRN		

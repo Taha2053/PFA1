@@ -1,0 +1,4 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+Professeurs		TAR	291	new record size: 291
+Professeurs	AdminsID	RUB+		AdminsID is a new key
+Constraint_Professeurs_Admins		NWL	Admins (AdminsID) and Professeurs (AdminsID)	New link between Admins (AdminsID) and Professeurs (AdminsID) files

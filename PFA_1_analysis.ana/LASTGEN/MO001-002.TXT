@@ -1,0 +1,17 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Matiere		TAR	168	new record size: 168
+Matiere	NoteDS	RUB+		NoteDS is a new item
+Matiere	NoteExamen	RUB+		NoteExamen is a new item
+Note		TAR	113	new record size: 113
+Note	MatiereID	RUB+		MatiereID is a new key
+Note	Matiere	NNR	note	CAUTION: item note renamed Matiere
+Note	CoeffMatiere	RUB+		CoeffMatiere is a new item
+Note	DS	RUB+		DS is a new item
+Note	Examen	RUB+		Examen is a new item
+Note	CoeffDS	RUB+		CoeffDS is a new item
+Note	CoeffExamen	RUB+		CoeffExamen is a new item
+Note	MoyenneMatiere	RUB+		MoyenneMatiere is a new item
+Note	ExamenID	RUB+		ExamenID is a new key
+Note	ExamenID	RUB-		key ExamenID deleted
+Constraint_Note_Examen		NWL	Examen (ExamenID) and Note (ExamenID)	New link between Examen (ExamenID) and Note (ExamenID) files
+Constraint_Note_Examen		DEL	Examen (ExamenID) and Note (ExamenID)	Link deleted between Examen (ExamenID) and Note (ExamenID) files
