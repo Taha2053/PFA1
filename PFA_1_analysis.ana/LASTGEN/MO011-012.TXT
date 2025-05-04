@@ -1,0 +1,6 @@
+//MO011-012.TXT ANA00011 TO ANA00012
+Note		TAR	214	new record size: 214
+Note	ModuleID	RUB+		ModuleID is a new key
+Note	NomModule	RUB+		NomModule is a new item
+Module		TAR	119	new record size: 119
+Module	NomModule	RUB+		NomModule is a new item

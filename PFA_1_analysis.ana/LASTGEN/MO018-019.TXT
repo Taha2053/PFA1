@@ -1,0 +1,3 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+Constraint_Departement_Professeurs		MCL	1,n->0,n	
+Constraint_Etudiant_Departement		MCL	1,n->0,n	

@@ -1,0 +1,4 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+Etudiant		TAR	344	new record size: 344
+Etudiant	DepartementID	RUB-		key DepartementID deleted
+Constraint_Etudiant_Departement		DEL	Departement (DepartementID) and Etudiant (DepartementID)	Link deleted between Departement (DepartementID) and Etudiant (DepartementID) files

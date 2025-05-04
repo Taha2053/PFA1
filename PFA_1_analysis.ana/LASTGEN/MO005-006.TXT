@@ -1,0 +1,14 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+Note		TAR	112	new record size: 112
+Note	CoeffTP	RUB+		CoeffTP is a new item
+SupportDeModule		TAR	191	new record size: 191
+SupportDeModule	ProfesseursID	RUB+		ProfesseursID is a new key
+SupportDeModule	nomP	RUB+		nomP is a new item
+SupportDeModule	AjouteePar	RUB-		item AjouteePar deleted
+SupportDeModule	TypeModule	RUB-		item TypeModule deleted
+Actualite		NFI		new file
+Constraint_Admins_Actualite		NWL	Admins (AdminsID) and Actualite (AdminsID)	New link between Admins (AdminsID) and Actualite (AdminsID) files
+Constraint_Professeurs_SupportDeModule		NWL	Professeurs (ProfesseursID) and SupportDeModule (ProfesseursID)	New link between Professeurs (ProfesseursID) and SupportDeModule (ProfesseursID) files
+Etudiant	niveauE	RRM		
+Etudiant	classeE	RRM		
+Etudiant	specialisationE	RRN		

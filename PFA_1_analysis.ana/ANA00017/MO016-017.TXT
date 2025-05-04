@@ -1,0 +1,3 @@
+//MO016-017.TXT ANA00016 TO ANA00017
+Examen		TAR	181	new record size: 181
+Examen	NomModule	RUB+		NomModule is a new item

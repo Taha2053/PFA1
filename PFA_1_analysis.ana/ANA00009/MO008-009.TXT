@@ -1,0 +1,4 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+Etudiant		TAR	346	new record size: 346
+Etudiant	DepartementID	RUB+		DepartementID is a new key
+Constraint_Etudiant_Departement		NWL	Departement (DepartementID) and Etudiant (DepartementID)	New link between Departement (DepartementID) and Etudiant (DepartementID) files

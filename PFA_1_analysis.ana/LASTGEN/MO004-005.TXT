@@ -1,0 +1,29 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+Professeurs		TAR	283	new record size: 283
+Professeurs	MatiereID	RUB-		key MatiereID deleted
+Professeurs	AdminsID	RUB-		key AdminsID deleted
+Departement		TAR	16	new record size: 16
+Departement	AdminsID	RUB+		AdminsID is a new key
+Examen		TAR	130	new record size: 130
+Examen	Type	RUB+		Type is a new item
+Examen	ModuleID	RUB+		ModuleID is a new key
+Examen	MatiereID	RUB-		key MatiereID deleted
+Note		TAR	108	new record size: 108
+Note	NoteTP	RUB+		NoteTP is a new item
+Note	MatiereID	RUB-		key MatiereID deleted
+Note	Matiere	RUB-		item Matiere deleted
+Note	ModifierPar	RUB-		item ModifierPar deleted
+Module		NFI		new file
+SupportDeModule		NFI		new file
+Matiere		FIC-	Matiere	Matiere file deleted
+Professeurs_Matiere		FIC-	Professeurs_Matiere	Professeurs_Matiere file deleted
+Constraint_Module_SupportDeModule		NWL	Module (ModuleID) and SupportDeModule (ModuleID)	New link between Module (ModuleID) and SupportDeModule (ModuleID) files
+Constraint_Professeurs_Cours		NWL	Professeurs (ProfesseursID) and Module (ProfesseursID)	New link between Professeurs (ProfesseursID) and Module (ProfesseursID) files
+Constraint_Examen_Cours		NWL	Module (ModuleID) and Examen (ModuleID)	New link between Module (ModuleID) and Examen (ModuleID) files
+Constraint_Admins_Departement		NWL	Admins (AdminsID) and Departement (AdminsID)	New link between Admins (AdminsID) and Departement (AdminsID) files
+Constraint_Examen_Matiere		DEL	Matiere (MatiereID) and Examen (MatiereID)	Link deleted between Matiere (MatiereID) and Examen (MatiereID) files
+Constraint_Professeurs_Matiere		DEL	Professeurs (ProfesseursID) and Professeurs_Matiere (ProfesseursID)	Link deleted between Professeurs (ProfesseursID) and Professeurs_Matiere (ProfesseursID) files
+Constraint_Matiere_Professeurs		DEL	Matiere (MatiereID) and Professeurs_Matiere (MatiereID)	Link deleted between Matiere (MatiereID) and Professeurs_Matiere (MatiereID) files
+Constraint_Professeurs_Admins		DEL	Admins (AdminsID) and Professeurs (AdminsID)	Link deleted between Admins (AdminsID) and Professeurs (AdminsID) files
+Module		FRN		
+Examen	Type	RRN		
