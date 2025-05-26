@@ -1,0 +1,5 @@
+//MO041-042.TXT ANA00041 TO ANA00042
+Module		TAR	376	new record size: 376
+Module	GroupedeModule	CLEU*		GroupedeModule item is now key
+Module	nomP	RUB+		nomP is a new item
+Module	prenomP	RUB+		prenomP is a new item

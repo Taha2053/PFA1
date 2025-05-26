@@ -1,0 +1,7 @@
+//MO036-037.TXT ANA00036 TO ANA00037
+Etudiant		TAR	403	new record size: 403
+Etudiant	NomdeFormation	RUB+		NomdeFormation is a new item
+Module		TAR	231	new record size: 231
+Module	NomdeFormation	RUB+		NomdeFormation is a new item
+Niveau		TAR	127	new record size: 127
+Niveau	NomdeFormation	RUB+		NomdeFormation is a new item

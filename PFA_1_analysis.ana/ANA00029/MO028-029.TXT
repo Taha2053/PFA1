@@ -1,0 +1,3 @@
+//MO028-029.TXT ANA00028 TO ANA00029
+Departement		TAR	66	new record size: 66
+Departement	nom_departement	CNW	String$1-byte unsigned integer	new type for nom_departement item: String

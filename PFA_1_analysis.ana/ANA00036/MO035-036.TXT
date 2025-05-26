@@ -1,0 +1,11 @@
+//MO035-036.TXT ANA00035 TO ANA00036
+Etudiant		TAR	352	new record size: 352
+Etudiant	FormationID	RUB+		FormationID is a new key
+Module		TAR	179	new record size: 179
+Module	FormationID	RUB+		FormationID is a new key
+Niveau		TAR	76	new record size: 76
+Niveau	FormationID	RUB+		FormationID is a new key
+Formation		NFI		new file
+Constraint_Formation_Etudiant		NWL	Formation (FormationID) and Etudiant (FormationID)	New link between Formation (FormationID) and Etudiant (FormationID) files
+Constraint_Formation_Niveau		NWL	Formation (FormationID) and Niveau (FormationID)	New link between Formation (FormationID) and Niveau (FormationID) files
+Constraint_Formation_Module		NWL	Formation (FormationID) and Module (FormationID)	New link between Formation (FormationID) and Module (FormationID) files

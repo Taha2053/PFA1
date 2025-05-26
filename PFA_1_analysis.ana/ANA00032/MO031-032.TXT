@@ -1,0 +1,3 @@
+//MO031-032.TXT ANA00031 TO ANA00032
+Formations	NomDFormation	RUB+		NomDFormation is a new item
+Formations	NomFormation	RUB-		item NomFormation deleted

@@ -1,0 +1,3 @@
+//MO046-047.TXT ANA00046 TO ANA00047
+Note		TAR	270	new record size: 270
+Note	AbscenceParModule	RUB+		AbscenceParModule is a new item

@@ -1,0 +1,5 @@
+//MO040-041.TXT ANA00040 TO ANA00041
+Etudiant		TAR	446	new record size: 446
+Etudiant	Niveau	RUB-		item Niveau deleted
+Niveau		FIC-	Niveau	Niveau file deleted
+Constraint_Formation_Niveau		DEL	Formation (FormationID) and Niveau (FormationID)	Link deleted between Formation (FormationID) and Niveau (FormationID) files

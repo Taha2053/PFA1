@@ -1,0 +1,4 @@
+//MO038-039.TXT ANA00038 TO ANA00039
+Niveau		TAR	213	new record size: 213
+Niveau		IDE-*		file without identifier
+Niveau	NiveauID	CNW	String$Automatic Identifier (8 bytes)	new type for NiveauID item: String

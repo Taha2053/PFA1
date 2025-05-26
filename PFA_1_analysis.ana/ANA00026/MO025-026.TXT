@@ -1,0 +1,4 @@
+//MO025-026.TXT ANA00025 TO ANA00026
+Niveau		TAR	127	new record size: 127
+Niveau	NomFormation	RUB+		NomFormation is a new item
+Niveau	NomFormation	RRN		

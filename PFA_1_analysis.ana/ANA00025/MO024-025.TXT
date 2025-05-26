@@ -1,0 +1,22 @@
+//MO024-025.TXT ANA00024 TO ANA00025
+Etudiant		TAR	403	new record size: 403
+Etudiant	Abscence	RUB+		Abscence is a new item
+Etudiant	FormationsID	RUB+		FormationsID is a new key
+Etudiant	NomFormation	RUB+		NomFormation is a new item
+Etudiant	niveauE	RUB-		item niveauE deleted
+Etudiant	specialisationE	RUB-		item specialisationE deleted
+Etudiant	classeE	RUB-		item classeE deleted
+Note		TAR	215	new record size: 215
+Note	Credit	RUB+		Credit is a new item
+Module		TAR	179	new record size: 179
+Module	RegimeEvaluation	RUB+		RegimeEvaluation is a new key
+Module	FormationsID	RUB+		FormationsID is a new key
+Niveau		NFI		new file
+Formations		NFI		new file
+Constraint_Formations_Etudiant		NWL	Formations (FormationsID) and Etudiant (FormationsID)	New link between Formations (FormationsID) and Etudiant (FormationsID) files
+Constraint_Formations_Niveau		NWL	Formations (FormationsID) and Niveau (FormationsID)	New link between Formations (FormationsID) and Niveau (FormationsID) files
+Constraint_Formations_Module		NWL	Formations (FormationsID) and Module (FormationsID)	New link between Formations (FormationsID) and Module (FormationsID) files
+SupportDeModule	TypeFichier	RRM		
+Module	RegimeEvaluation	RRN		
+Formations	NomFormation	RRN		
+Etudiant	NomFormation	RRN		

@@ -1,0 +1,13 @@
+//MO034-035.TXT ANA00034 TO ANA00035
+Etudiant		TAR	344	new record size: 344
+Etudiant	FormationsID	RUB-		key FormationsID deleted
+Etudiant	NomFormation	RUB-		item NomFormation deleted
+Module		TAR	171	new record size: 171
+Module	FormationsID	RUB-		key FormationsID deleted
+Niveau		TAR	68	new record size: 68
+Niveau	FormationsID	RUB-		key FormationsID deleted
+Niveau	NomFormation	RUB-		item NomFormation deleted
+Formations		FIC-	Formations	Formations file deleted
+Constraint_Formations_Etudiant		DEL	Formations (FormationsID) and Etudiant (FormationsID)	Link deleted between Formations (FormationsID) and Etudiant (FormationsID) files
+Constraint_Formations_Niveau		DEL	Formations (FormationsID) and Niveau (FormationsID)	Link deleted between Formations (FormationsID) and Niveau (FormationsID) files
+Constraint_Formations_Module		DEL	Formations (FormationsID) and Module (FormationsID)	Link deleted between Formations (FormationsID) and Module (FormationsID) files

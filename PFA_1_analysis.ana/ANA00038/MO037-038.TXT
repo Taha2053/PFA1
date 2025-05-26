@@ -1,0 +1,10 @@
+//MO037-038.TXT ANA00037 TO ANA00038
+Etudiant		TAR	446	new record size: 446
+Etudiant	FormationID	CNW	String$8-byte integer	new type for FormationID item: String
+Module		TAR	274	new record size: 274
+Module	FormationID	CNW	String$8-byte integer	new type for FormationID item: String
+Niveau		TAR	170	new record size: 170
+Niveau	FormationID	CNW	String$8-byte integer	new type for FormationID item: String
+Formation		TAR	111	new record size: 111
+Formation		IDE-*		file without identifier
+Formation	FormationID	CNW	String$Automatic Identifier (8 bytes)	new type for FormationID item: String

@@ -1,0 +1,6 @@
+//MO023-024.TXT ANA00023 TO ANA00024
+Module		TAR	170	new record size: 170
+Module	GroupedeModule	RUB+		GroupedeModule is a new item
+SupportDeModule		TAR	236	new record size: 236
+SupportDeModule	TypeFichier	RUB+		TypeFichier is a new item
+SupportDeModule	TypeFichier	RRN		

@@ -1,0 +1,4 @@
+//MO044-045.TXT ANA00044 TO ANA00045
+Note		TAR	269	new record size: 269
+Note		IDE+*		file with identifier
+Note	NoteID	CNW	Automatic Identifier (4 bytes)$2-byte unsigned integer	new type for NoteID item: Automatic Identifier (4 bytes)
