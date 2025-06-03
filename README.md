@@ -151,3 +151,11 @@ Profile Settings.
 **Filters**: Filters are provided in each window to facilitate convenient access to information.
 
 **Deletion Confirmation**: Deleting elements from the application requires that the element is not linked to another and that the password must be entered to confirm the deletion.
+
+Copyright (c) 2025 Almouthana Taha Khalfallah
+
+This project was developed as an academic and educational project.
+
+If you wish to adapt or customize this application for your own use and don't have **windev** to do so, especially in a deployed or distributed product, please contact me directly at:
+
+📧 almouthana.taha.khalfallah@gmail.com
